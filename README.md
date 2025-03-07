@@ -1,6 +1,9 @@
 EasyCalculator, Java Swing kullanılarak geliştirilmiş basit bir hesap makinesi uygulamasıdır.
+
 Temel aritmetik işlemleri gerçekleştirebilir ve kullanıcı dostu bir arayüze sahiptir.
+
 🚀 Özellikler
+
 ✔️ Toplama, çıkarma, çarpma ve bölme işlemleri
 ✔️ Kullanıcı dostu grafik arayüz (GUI)
 ✔️ Java Swing ile oluşturulmuş basit ve şık tasarım
